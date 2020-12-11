@@ -1,4 +1,4 @@
-# Python Improt System
+# Python Import System
 
-![Python Improt System](./Python_Import_System.svg)
+![Python Import System](./Python_Import_System.svg)
 
