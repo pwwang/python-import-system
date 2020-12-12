@@ -33,5 +33,9 @@ else:
         raise ModuleNotFoundError
 ```
 
+## Experiments
+
+See [playground.ipynb](./playground.ipynb) for some experiments on the diagram.
+
 [1]: https://docs.python.org/3/reference/import.html
 
